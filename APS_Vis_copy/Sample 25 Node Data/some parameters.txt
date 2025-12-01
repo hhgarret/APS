@@ -1,0 +1,5 @@
+Rotation Angle (deg): -29.6669
+
+RMSE of known relative distances (cm): 0.0331
+
+RMSE of coordinates (cm): 0.0446
