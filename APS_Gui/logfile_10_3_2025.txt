@@ -1,0 +1,766 @@
+M D Y: 10 03 2025
+10:44:54 Gateway 0, reading I: PPS DETECTED
+10:44:55 Gateway 0, reading I: PPS DETECTED
+10:44:55 Gateway 0, sending b'HYP\xff\xff\xff\xff\xff\xff\t\xbb\xff\xff'
+10:44:55 Gateway 0, reading I: Start BLE Scanning
+10:44:55 Gateway 0, reading I: BLE: Scanning Started!
+10:44:56 Gateway 0, reading I: PPS DETECTED
+10:44:56 Gateway 0, reading I: BLE: Connected: E2:2A:19:8D:DA:BB (random)
+10:44:57 Gateway 0, reading I: PPS DETECTED
+10:44:58 Gateway 0, reading I: PPS DETECTED
+10:44:58 Gateway 0, reading I: BLE: Discovery Complete!
+10:44:59 Gateway 0, reading I: PPS DETECTED
+10:44:59 Gateway 0, reading I: BLE: Connected: F0:E9:BA:56:C7:82 (random)
+10:45:00 Gateway 0, reading I: PPS DETECTED
+10:45:01 Gateway 0, reading I: PPS DETECTED
+10:45:01 Gateway 0, reading I: BLE: Discovery Complete!
+10:45:02 Gateway 0, reading I: PPS DETECTED
+10:45:02 Gateway 0, reading I: BLE: Connected: CD:61:D3:52:14:02 (random)
+10:45:03 Gateway 0, reading I: PPS DETECTED
+10:45:04 Gateway 0, reading I: PPS DETECTED
+10:45:05 Gateway 0, reading I: PPS DETECTED
+10:45:05 Gateway 0, reading I: BLE: Discovery Complete!
+10:45:06 Gateway 0, reading I: PPS DETECTED
+10:45:07 Gateway 0, reading I: PPS DETECTED
+10:45:07 Gateway 0, reading I: BLE: Connected: D6:64:98:38:C4:55 (random)
+10:45:08 Gateway 0, reading I: PPS DETECTED
+10:45:09 Gateway 0, reading I: PPS DETECTED
+10:45:09 Gateway 0, reading I: BLE: Discovery Complete!
+10:45:10 Gateway 0, reading I: PPS DETECTED
+10:45:11 Gateway 0, reading I: PPS DETECTED
+10:45:12 Gateway 0, reading I: PPS DETECTED
+10:45:13 Gateway 0, reading I: PPS DETECTED
+10:45:14 Gateway 0, reading I: PPS DETECTED
+10:45:15 Gateway 0, reading I: PPS DETECTED
+10:45:16 Gateway 0, reading I: PPS DETECTED
+10:45:17 Gateway 0, reading I: PPS DETECTED
+10:45:18 Gateway 0, reading I: PPS DETECTED
+10:45:19 Gateway 0, reading I: PPS DETECTED
+10:45:20 Gateway 0, reading I: PPS DETECTED
+10:45:21 Gateway 0, reading I: PPS DETECTED
+10:45:22 Gateway 0, reading I: PPS DETECTED
+10:45:23 Gateway 0, reading I: PPS DETECTED
+10:45:24 Gateway 0, reading I: PPS DETECTED
+10:45:25 Gateway 0, reading I: PPS DETECTED
+10:45:26 Gateway 0, reading I: PPS DETECTED
+10:45:26 Gateway 0, reading I: BLE: Connected: E1:D7:29:7F:A1:4C (random)
+10:45:27 Gateway 0, reading I: PPS DETECTED
+10:45:28 Gateway 0, reading I: PPS DETECTED
+10:45:28 Gateway 0, reading I: BLE: Discovery Complete!
+10:45:29 Gateway 0, reading I: PPS DETECTED
+10:45:30 Gateway 0, reading I: PPS DETECTED
+10:45:30 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:45:30 Gateway 0, reading I: READ FROM NIB
+10:45:31 Gateway 0, reading I: PPS DETECTED
+10:45:31 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:45:31 Gateway 0, reading I: READ FROM NIB
+10:45:31 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:45:31 Gateway 0, reading I: READ FROM NIB
+10:45:32 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:45:32 Gateway 0, reading 52454144592d2d4e4f4445313235212121212121212121212121212121212121
+10:45:32 Gateway 0, reading I: PPS DETECTED
+10:45:32 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:45:32 Gateway 0, reading I: READ FROM NIB
+10:45:32 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:45:32 Gateway 0, reading 52454144592d2d4e4f4445313237212121212121212121212121212121212121
+10:45:32 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:45:32 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:45:32 Gateway 0, reading 00000000000000000000000000000000
+10:45:32 Gateway 0, reading I: READ FROM NIB
+10:45:33 Gateway 0, reading I: PPS DETECTED
+10:45:33 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:45:33 Gateway 0, reading 52454144592d2d4e4f4445313236212121212121212121212121212121212121
+10:45:33 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:45:33 Gateway 0, reading 00000000000000000000000000000000
+10:45:34 Gateway 0, reading I: PPS DETECTED
+10:45:35 Gateway 0, reading I: PPS DETECTED
+10:45:36 Gateway 0, reading I: PPS DETECTED
+10:45:37 Gateway 0, reading I: PPS DETECTED
+10:45:38 Gateway 0, reading I: PPS DETECTED
+10:45:39 Gateway 0, reading I: PPS DETECTED
+10:45:40 Gateway 0, reading I: PPS DETECTED
+10:45:41 Gateway 0, reading I: PPS DETECTED
+10:45:42 Gateway 0, reading I: PPS DETECTED
+10:45:43 Gateway 0, reading I: PPS DETECTED
+10:45:44 Gateway 0, reading I: PPS DETECTED
+10:45:45 Gateway 0, reading I: PPS DETECTED
+10:45:46 Gateway 0, reading I: PPS DETECTED
+10:45:47 Gateway 0, reading I: PPS DETECTED
+10:45:48 Gateway 0, reading I: PPS DETECTED
+10:45:49 Gateway 0, reading I: PPS DETECTED
+10:45:50 Gateway 0, reading I: PPS DETECTED
+10:45:51 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:45:51 Gateway 0, reading I: READ FROM NIB
+10:45:51 Gateway 0, reading I: PPS DETECTED
+10:45:51 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:45:51 Gateway 0, reading I: READ FROM NIB
+10:45:51 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:45:51 Gateway 0, reading 52454144592d2d4e4f4445313235212121212121212121212121212121212121
+10:45:52 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:45:52 Gateway 0, reading I: READ FROM NIB
+10:45:52 Gateway 0, reading I: PPS DETECTED
+10:45:52 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:45:52 Gateway 0, reading 52454144592d2d4e4f4445313237212121212121212121212121212121212121
+10:45:52 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:45:52 Gateway 0, reading I: READ FROM NIB
+10:45:52 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:45:52 Gateway 0, reading 00000000000000000000000000000000
+10:45:53 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:45:53 Gateway 0, reading I: READ FROM NIB
+10:45:53 Gateway 0, reading I: PPS DETECTED
+10:45:53 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:45:53 Gateway 0, reading 52454144592d2d4e4f4445313236212121212121212121212121212121212121
+10:45:54 Gateway 0, reading I: PPS DETECTED
+10:45:54 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:45:54 Gateway 0, reading 00000000000000000000000000000000
+10:45:55 Gateway 0, reading I: PPS DETECTED
+10:45:56 Gateway 0, reading I: PPS DETECTED
+10:45:57 Gateway 0, reading I: PPS DETECTED
+10:45:58 Gateway 0, reading I: PPS DETECTED
+10:45:59 Gateway 0, reading I: PPS DETECTED
+10:46:00 Gateway 0, reading I: PPS DETECTED
+10:46:01 Gateway 0, reading I: PPS DETECTED
+10:46:02 Gateway 0, reading I: PPS DETECTED
+10:46:03 Gateway 0, reading I: PPS DETECTED
+10:46:04 Gateway 0, reading I: PPS DETECTED
+10:46:05 Gateway 0, reading I: PPS DETECTED
+10:46:06 Gateway 0, reading I: PPS DETECTED
+10:46:07 Gateway 0, reading I: PPS DETECTED
+10:46:08 Gateway 0, reading I: PPS DETECTED
+10:46:09 Gateway 0, reading I: PPS DETECTED
+10:46:10 Gateway 0, reading I: PPS DETECTED
+10:46:11 Gateway 0, reading I: PPS DETECTED
+10:46:12 Gateway 0, reading I: PPS DETECTED
+10:46:13 Gateway 0, reading I: PPS DETECTED
+10:46:14 Gateway 0, reading I: PPS DETECTED
+10:46:15 Gateway 0, reading I: PPS DETECTED
+10:46:16 Gateway 0, reading I: PPS DETECTED
+10:46:17 Gateway 0, reading I: PPS DETECTED
+10:46:18 Gateway 0, reading I: PPS DETECTED
+10:46:19 Gateway 0, reading I: PPS DETECTED
+10:46:20 Gateway 0, reading I: PPS DETECTED
+10:46:21 Gateway 0, reading I: PPS DETECTED
+10:46:21 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:46:22 Gateway 0, reading I: PPS DETECTED
+10:46:22 Gateway 0, reading I: Write NIB - PPS
+10:46:22 Gateway 0, reading I: NIB Write ACK
+10:46:22 Gateway 0, reading I: NIB Write ACK
+10:46:23 Gateway 0, reading I: PPS DETECTED
+10:46:23 Gateway 0, reading I: NIB Write ACK
+10:46:24 Gateway 0, reading I: NIB Write ACK
+10:46:24 Gateway 0, reading I: PPS DETECTED
+10:46:24 Gateway 0, reading I: NIB Write ACK
+10:46:25 Gateway 0, reading I: PPS DETECTED
+10:46:26 Gateway 0, reading I: PPS DETECTED
+10:46:27 Gateway 0, reading I: PPS DETECTED
+10:46:28 Gateway 0, reading I: PPS DETECTED
+10:46:29 Gateway 0, reading I: PPS DETECTED
+10:46:30 Gateway 0, reading I: PPS DETECTED
+10:46:31 Gateway 0, reading I: PPS DETECTED
+10:46:32 Gateway 0, reading I: PPS DETECTED
+10:46:33 Gateway 0, reading I: PPS DETECTED
+10:46:34 Gateway 0, reading I: PPS DETECTED
+10:46:35 Gateway 0, reading I: PPS DETECTED
+10:46:36 Gateway 0, reading I: PPS DETECTED
+10:46:37 Gateway 0, reading I: PPS DETECTED
+10:46:38 Gateway 0, reading I: PPS DETECTED
+10:46:39 Gateway 0, reading I: PPS DETECTED
+10:46:40 Gateway 0, reading I: PPS DETECTED
+10:46:41 Gateway 0, reading I: PPS DETECTED
+10:46:42 Gateway 0, reading I: PPS DETECTED
+10:46:43 Gateway 0, reading I: PPS DETECTED
+10:46:43 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:46:43 Gateway 0, reading I: READ FROM NIB
+10:46:43 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:46:43 Gateway 0, reading I: READ FROM NIB
+10:46:44 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:46:44 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:44 Gateway 0, reading I: PPS DETECTED
+10:46:44 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:46:44 Gateway 0, reading I: READ FROM NIB
+10:46:44 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:46:44 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:44 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:46:44 Gateway 0, reading I: READ FROM NIB
+10:46:44 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:46:44 Gateway 0, reading 52454144592d2d4e4f4445313239212121212121212121212121212121212152
+10:46:45 Gateway 0, reading I: PPS DETECTED
+10:46:45 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:46:45 Gateway 0, reading I: READ FROM NIB
+10:46:45 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:46:45 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:46 Gateway 0, reading I: PPS DETECTED
+10:46:46 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:46:46 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:47 Gateway 0, reading I: PPS DETECTED
+10:46:48 Gateway 0, reading I: PPS DETECTED
+10:46:48 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:46:48 Gateway 0, reading I: READ FROM NIB
+10:46:49 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:46:49 Gateway 0, reading I:I: PPS DETECTED
+10:46:49 Gateway 0, reading  READ FROM NIB
+10:46:49 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:46:49 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:49 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:46:49 Gateway 0, reading I: READ FROM NIB
+10:46:49 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:46:49 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:50 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:46:50 Gateway 0, reading I: PPS DETECTED
+10:46:50 Gateway 0, reading I: READ FROM NIB
+10:46:50 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:46:50 Gateway 0, reading 52454144592d2d4e4f4445313239212121212121212121212121212121212152
+10:46:50 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:46:50 Gateway 0, reading I: READ FROM NIB
+10:46:51 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:46:51 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:51 Gateway 0, reading I: PPS DETECTED
+10:46:51 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:46:51 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:46:52 Gateway 0, reading I: PPS DETECTED
+10:46:53 Gateway 0, reading I: PPS DETECTED
+10:46:54 Gateway 0, reading I: PPS DETECTED
+10:46:55 Gateway 0, reading I: PPS DETECTED
+10:46:56 Gateway 0, reading I: PPS DETECTED
+10:46:57 Gateway 0, reading I: PPS DETECTED
+10:46:58 Gateway 0, reading I: PPS DETECTED
+10:46:59 Gateway 0, reading I: PPS DETECTED
+10:47:00 Gateway 0, reading I: PPS DETECTED
+10:47:01 Gateway 0, reading I: PPS DETECTED
+10:47:02 Gateway 0, reading I: PPS DETECTED
+10:47:03 Gateway 0, reading I: PPS DETECTED
+10:47:04 Gateway 0, reading I: PPS DETECTED
+10:47:05 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:47:05 Gateway 0, reading I: READ FROM NIB
+10:47:05 Gateway 0, reading I: PPS DETECTED
+10:47:05 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:47:05 Gateway 0, reading I: READ FROM NIB
+10:47:06 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:47:06 Gateway 0, reading I: READ I: PPS DETECTED
+10:47:06 Gateway 0, reading FROM NIB
+10:47:06 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:47:06 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:06 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:47:06 Gateway 0, reading I: READ FROM NIB
+10:47:06 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:47:06 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:07 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:47:07 Gateway 0, reading I: PPS DETECTED
+10:47:07 Gateway 0, reading I: READ FROM NIB
+10:47:07 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:47:07 Gateway 0, reading 52454144592d2d4e4f4445313239212121212121212121212121212121212152
+10:47:07 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:47:07 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:08 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:47:08 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:08 Gateway 0, reading I: PPS DETECTED
+10:47:09 Gateway 0, reading I: PPS DETECTED
+10:47:10 Gateway 0, reading I: PPS DETECTED
+10:47:11 Gateway 0, reading I: PPS DETECTED
+10:47:12 Gateway 0, reading I: PPS DETECTED
+10:47:13 Gateway 0, reading I: PPS DETECTED
+10:47:14 Gateway 0, reading I: PPS DETECTED
+10:47:15 Gateway 0, reading I: PPS DETECTED
+10:47:16 Gateway 0, reading I: PPS DETECTED
+10:47:17 Gateway 0, reading I: PPS DETECTED
+10:47:18 Gateway 0, reading I: PPS DETECTED
+10:47:19 Gateway 0, reading I: PPS DETECTED
+10:47:20 Gateway 0, reading I: PPS DETECTED
+10:47:21 Gateway 0, reading I: PPS DETECTED
+10:47:22 Gateway 0, reading I: PPS DETECTED
+10:47:22 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:47:22 Gateway 0, reading I: READ FROM NIB
+10:47:22 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:47:22 Gateway 0, reading I: READ FROM NIB
+10:47:23 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:47:23 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:23 Gateway 0, reading I: PPS DETECTED
+10:47:23 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:47:23 Gateway 0, reading I: READ FROM NIB
+10:47:23 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:47:23 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:23 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:47:23 Gateway 0, reading I: READ FROM NIB
+10:47:23 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:47:23 Gateway 0, reading 52454144592d2d4e4f4445313239212121212121212121212121212121212152
+10:47:24 Gateway 0, reading I: PPS DETECTED
+10:47:24 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:47:24 Gateway 0, reading I: READ FROM NIB
+10:47:24 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:47:24 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:25 Gateway 0, reading I: PPS DETECTED
+10:47:25 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:47:25 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:26 Gateway 0, reading I: PPS DETECTED
+10:47:27 Gateway 0, reading I: PPS DETECTED
+10:47:28 Gateway 0, reading I: PPS DETECTED
+10:47:29 Gateway 0, reading I: PPS DETECTED
+10:47:30 Gateway 0, reading I: PPS DETECTED
+10:47:31 Gateway 0, reading I: PPS DETECTED
+10:47:32 Gateway 0, reading I: PPS DETECTED
+10:47:33 Gateway 0, reading I: PPS DETECTED
+10:47:34 Gateway 0, reading I: PPS DETECTED
+10:47:34 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:47:34 Gateway 0, reading I: READ FROM NIB
+10:47:35 Gateway 0, reading I: PPS DETECTED
+10:47:35 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:47:35 Gateway 0, reading I: READ FROM NIB
+10:47:35 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:47:35 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:35 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:47:36 Gateway 0, reading I: READ FROM NIB
+10:47:36 Gateway 0, reading I: PPS DETECTED
+10:47:36 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:47:36 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:36 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:47:36 Gateway 0, reading I: READ FROM NIB
+10:47:36 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:47:36 Gateway 0, reading I: READ FROM NIB
+10:47:37 Gateway 0, reading I: PPS DETECTED
+10:47:37 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:47:37 Gateway 0, reading 52454144592d2d4e4f4445313239212121212121212121212121212121212152
+10:47:37 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:47:37 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:37 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:47:37 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:47:38 Gateway 0, reading I: PPS DETECTED
+10:47:39 Gateway 0, reading I: PPS DETECTED
+10:47:40 Gateway 0, reading I: PPS DETECTED
+10:47:41 Gateway 0, reading I: PPS DETECTED
+10:47:42 Gateway 0, reading I: PPS DETECTED
+10:47:43 Gateway 0, reading I: PPS DETECTED
+10:47:44 Gateway 0, reading I: PPS DETECTED
+10:47:45 Gateway 0, reading I: PPS DETECTED
+10:47:46 Gateway 0, reading I: PPS DETECTED
+10:47:47 Gateway 0, reading I: PPS DETECTED
+10:47:48 Gateway 0, reading I: PPS DETECTED
+10:47:49 Gateway 0, reading I: PPS DETECTED
+10:47:50 Gateway 0, reading I: PPS DETECTED
+10:47:51 Gateway 0, reading I: PPS DETECTED
+10:47:51 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:47:52 Gateway 0, reading I: PPS DETECTED
+10:47:52 Gateway 0, reading I: Write NIB - PPS
+10:47:53 Gateway 0, reading I: NIB Write ACK
+10:47:53 Gateway 0, reading I: NIB Write ACK
+10:47:53 Gateway 0, reading I: PPS DETECTED
+10:47:53 Gateway 0, reading I: NIB Write ACK
+10:47:54 Gateway 0, reading I: NIB Write ACK
+10:47:54 Gateway 0, reading I: PPS DETECTED
+10:47:54 Gateway 0, reading I: NIB Write ACK
+10:47:55 Gateway 0, reading I: PPS DETECTED
+10:47:56 Gateway 0, reading I: PPS DETECTED
+10:47:57 Gateway 0, reading I: PPS DETECTED
+10:47:58 Gateway 0, reading I: PPS DETECTED
+10:47:59 Gateway 0, reading I: PPS DETECTED
+10:48:00 Gateway 0, reading I: PPS DETECTED
+10:48:01 Gateway 0, reading I: PPS DETECTED
+10:48:02 Gateway 0, reading I: PPS DETECTED
+10:48:03 Gateway 0, reading I: PPS DETECTED
+10:48:04 Gateway 0, reading I: PPS DETECTED
+10:48:05 Gateway 0, reading I: PPS DETECTED
+10:48:06 Gateway 0, reading I: PPS DETECTED
+10:48:07 Gateway 0, reading I: PPS DETECTED
+10:48:08 Gateway 0, reading I: PPS DETECTED
+10:48:09 Gateway 0, reading I: PPS DETECTED
+10:48:10 Gateway 0, reading I: PPS DETECTED
+10:48:11 Gateway 0, reading I: PPS DETECTED
+10:48:12 Gateway 0, reading I: PPS DETECTED
+10:48:12 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:48:12 Gateway 0, reading I: READ FROM NIB
+10:48:13 Gateway 0, reading I: PPS DETECTED
+10:48:13 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:48:13 Gateway 0, reading I: READ FROM NIB
+10:48:13 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:48:13 Gateway 0, reading I: READ FROM NIB
+10:48:14 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:48:14 Gateway 0, reading 455455524e4449523246494c312d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:48:14 Gateway 0, reading I: PPS DETECTED
+10:48:14 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:48:14 Gateway 0, reading I: READ FROM NIB
+10:48:14 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:48:14 Gateway 0, reading 455455524e4449523346494c312d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:48:14 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:48:14 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:48:14 Gateway 0, reading 455455524e4449523346494c312d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:48:14 Gateway 0, reading I: READ FROM NIB
+10:48:15 Gateway 0, reading I: PPS DETECTED
+10:48:15 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:48:15 Gateway 0, reading 455455524e4449523246494c312d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:48:15 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:48:15 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:48:16 Gateway 0, reading I: PPS DETECTED
+10:48:17 Gateway 0, reading I: PPS DETECTED
+10:48:18 Gateway 0, reading I: PPS DETECTED
+10:48:19 Gateway 0, reading I: PPS DETECTED
+10:48:20 Gateway 0, reading I: PPS DETECTED
+10:48:21 Gateway 0, reading I: PPS DETECTED
+10:48:22 Gateway 0, reading I: PPS DETECTED
+10:48:23 Gateway 0, reading I: PPS DETECTED
+10:48:24 Gateway 0, reading I: PPS DETECTED
+10:48:25 Gateway 0, reading I: PPS DETECTED
+10:48:26 Gateway 0, reading I: PPS DETECTED
+10:48:27 Gateway 0, reading I: PPS DETECTED
+10:48:28 Gateway 0, reading I: PPS DETECTED
+10:48:29 Gateway 0, reading I: PPS DETECTED
+10:48:30 Gateway 0, reading I: PPS DETECTED
+10:48:31 Gateway 0, reading I: PPS DETECTED
+10:48:32 Gateway 0, reading I: PPS DETECTED
+10:48:33 Gateway 0, reading I: PPS DETECTED
+10:48:34 Gateway 0, reading I: PPS DETECTED
+10:48:35 Gateway 0, reading I: PPS DETECTED
+10:48:36 Gateway 0, reading I: PPS DETECTED
+10:48:37 Gateway 0, reading I: PPS DETECTED
+10:48:38 Gateway 0, reading I: PPS DETECTED
+10:48:39 Gateway 0, reading I: PPS DETECTED
+10:48:40 Gateway 0, reading I: PPS DETECTED
+10:48:41 Gateway 0, reading I: PPS DETECTED
+10:48:42 Gateway 0, reading I: PPS DETECTED
+10:48:43 Gateway 0, reading I: PPS DETECTED
+10:48:44 Gateway 0, reading I: PPS DETECTED
+10:48:45 Gateway 0, reading I: PPS DETECTED
+10:48:46 Gateway 0, reading I: PPS DETECTED
+10:48:47 Gateway 0, reading I: PPS DETECTED
+10:48:48 Gateway 0, reading I: PPS DETECTED
+10:48:49 Gateway 0, reading I: PPS DETECTED
+10:48:50 Gateway 0, reading I: PPS DETECTED
+10:48:51 Gateway 0, reading I: PPS DETECTED
+10:48:52 Gateway 0, reading I: PPS DETECTED
+10:48:53 Gateway 0, reading I: PPS DETECTED
+10:48:54 Gateway 0, reading I: PPS DETECTED
+10:48:55 Gateway 0, reading I: PPS DETECTED
+10:48:56 Gateway 0, reading I: PPS DETECTED
+10:48:57 Gateway 0, reading I: PPS DETECTED
+10:48:58 Gateway 0, reading I: PPS DETECTED
+10:48:59 Gateway 0, reading I: PPS DETECTED
+10:49:00 Gateway 0, reading I: PPS DETECTED
+10:49:01 Gateway 0, reading I: PPS DETECTED
+10:49:02 Gateway 0, reading I: PPS DETECTED
+10:49:03 Gateway 0, reading I: PPS DETECTED
+10:49:04 Gateway 0, reading I: PPS DETECTED
+10:49:05 Gateway 0, reading I: PPS DETECTED
+10:49:06 Gateway 0, reading I: PPS DETECTED
+10:49:07 Gateway 0, reading I: PPS DETECTED
+10:49:08 Gateway 0, reading I: PPS DETECTED
+10:49:09 Gateway 0, reading I: PPS DETECTED
+10:49:09 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:49:10 Gateway 0, reading I: PPS DETECTED
+10:49:10 Gateway 0, reading I: Write NIB - PPS
+10:49:10 Gateway 0, reading I: NIB Write ACK
+10:49:11 Gateway 0, reading I: NIB Write ACK
+10:49:11 Gateway 0, reading I: PPS DETECTED
+10:49:11 Gateway 0, reading I: NIB Write ACK
+10:49:12 Gateway 0, reading I: NIB Write ACK
+10:49:12 Gateway 0, reading I: PPS DETECTED
+10:49:12 Gateway 0, reading I: NIB Write ACK
+10:49:13 Gateway 0, reading I: PPS DETECTED
+10:49:14 Gateway 0, reading I: PPS DETECTED
+10:49:15 Gateway 0, reading I: PPS DETECTED
+10:49:16 Gateway 0, reading I: PPS DETECTED
+10:49:17 Gateway 0, reading I: PPS DETECTED
+10:49:18 Gateway 0, reading I: PPS DETECTED
+10:49:19 Gateway 0, reading I: PPS DETECTED
+10:49:20 Gateway 0, reading I: PPS DETECTED
+10:49:21 Gateway 0, reading I: PPS DETECTED
+10:49:22 Gateway 0, reading I: PPS DETECTED
+10:49:23 Gateway 0, reading I: PPS DETECTED
+10:49:24 Gateway 0, reading I: PPS DETECTED
+10:49:25 Gateway 0, reading I: PPS DETECTED
+10:49:26 Gateway 0, reading I: PPS DETECTED
+10:49:27 Gateway 0, reading I: PPS DETECTED
+10:49:28 Gateway 0, reading I: PPS DETECTED
+10:49:28 Gateway 0, sending b'NIBR\xe2*\x19\x8d\xda\xbb'
+10:49:28 Gateway 0, reading I: READ FROM NIB
+10:49:29 Gateway 0, reading I: PPS DETECTED
+10:49:29 Gateway 0, sending b'NIBR\xf0\xe9\xbaV\xc7\x82'
+10:49:29 Gateway 0, reading I: READ FROM NIB
+10:49:29 Gateway 0, reading I: [E2:2A:19:8D:DA:BB (random)] Sensor NIB read:
+10:49:29 Gateway 0, reading 455455524e4449523246494c322d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:49:29 Gateway 0, sending b'NIBR\xcda\xd3R\x14\x02'
+10:49:29 Gateway 0, reading I: READ FROM NIB
+10:49:30 Gateway 0, reading I: PPS DETECTED
+10:49:30 Gateway 0, reading I: [F0:E9:BA:56:C7:82 (random)] Sensor NIB read:
+10:49:30 Gateway 0, reading 455455524e4449523346494c322d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:49:30 Gateway 0, sending b'NIBR\xd6d\x988\xc4U'
+10:49:30 Gateway 0, reading I: READ FROM NIB
+10:49:30 Gateway 0, reading I: [CD:61:D3:52:14:02 (random)] Sensor NIB read:
+10:49:30 Gateway 0, reading 455455524e4449523346494c322d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:49:30 Gateway 0, sending b'NIBR\xe1\xd7)\x7f\xa1L'
+10:49:30 Gateway 0, reading I: READ FROM NIB
+10:49:31 Gateway 0, reading I: PPS DETECTED
+10:49:31 Gateway 0, reading I: [D6:64:98:38:C4:55 (random)] Sensor NIB read:
+10:49:31 Gateway 0, reading 455455524e4449523246494c322d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d52
+10:49:31 Gateway 0, reading I: [E1:D7:29:7F:A1:4C (random)] Sensor NIB read:
+10:49:31 Gateway 0, reading 5330313030343030303030303030303030303030303030303030303030303030
+10:49:32 Gateway 0, reading I: PPS DETECTED
+10:49:33 Gateway 0, reading I: PPS DETECTED
+10:49:34 Gateway 0, reading I: PPS DETECTED
+10:49:35 Gateway 0, reading I: PPS DETECTED
+10:49:36 Gateway 0, reading I: PPS DETECTED
+10:49:37 Gateway 0, reading I: PPS DETECTED
+10:49:38 Gateway 0, reading I: PPS DETECTED
+10:49:39 Gateway 0, reading I: PPS DETECTED
+10:49:40 Gateway 0, reading I: PPS DETECTED
+10:49:41 Gateway 0, reading I: PPS DETECTED
+10:49:42 Gateway 0, reading I: PPS DETECTED
+10:49:43 Gateway 0, reading I: PPS DETECTED
+10:49:44 Gateway 0, reading I: PPS DETECTED
+10:49:45 Gateway 0, reading I: PPS DETECTED
+10:49:46 Gateway 0, reading I: PPS DETECTED
+10:49:47 Gateway 0, reading I: PPS DETECTED
+10:49:48 Gateway 0, reading I: PPS DETECTED
+10:49:49 Gateway 0, reading I: PPS DETECTED
+10:49:50 Gateway 0, reading I: PPS DETECTED
+10:49:51 Gateway 0, reading I: PPS DETECTED
+10:49:52 Gateway 0, reading I: PPS DETECTED
+10:49:53 Gateway 0, reading I: PPS DETECTED
+10:49:54 Gateway 0, reading I: PPS DETECTED
+10:49:55 Gateway 0, reading I: PPS DETECTED
+10:49:56 Gateway 0, reading I: PPS DETECTED
+10:49:57 Gateway 0, reading I: PPS DETECTED
+10:49:58 Gateway 0, reading I: PPS DETECTED
+10:49:59 Gateway 0, reading I: PPS DETECTED
+10:50:00 Gateway 0, reading I: PPS DETECTED
+10:50:01 Gateway 0, reading I: PPS DETECTED
+10:50:02 Gateway 0, reading I: PPS DETECTED
+10:50:03 Gateway 0, reading I: PPS DETECTED
+10:50:04 Gateway 0, reading I: PPS DETECTED
+10:50:05 Gateway 0, reading I: PPS DETECTED
+10:50:06 Gateway 0, reading I: PPS DETECTED
+10:50:07 Gateway 0, reading I: PPS DETECTED
+10:50:08 Gateway 0, reading I: PPS DETECTED
+10:50:09 Gateway 0, reading I: PPS DETECTED
+10:50:10 Gateway 0, reading I: PPS DETECTED
+10:50:11 Gateway 0, reading I: PPS DETECTED
+10:50:12 Gateway 0, reading I: PPS DETECTED
+10:50:12 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:50:13 Gateway 0, reading I: PPS DETECTED
+10:50:13 Gateway 0, reading I: Write NIB - PPS
+10:50:13 Gateway 0, reading I: NIB Write ACK
+10:50:14 Gateway 0, reading I: NIB Write ACK
+10:50:14 Gateway 0, reading I: PPS DETECTED
+10:50:14 Gateway 0, reading I: NIB Write ACK
+10:50:15 Gateway 0, reading I: NIB Write ACK
+10:50:15 Gateway 0, reading I: PPS DETECTED
+10:50:15 Gateway 0, reading I: NIB Write ACK
+10:50:16 Gateway 0, reading I: PPS DETECTED
+10:50:17 Gateway 0, reading I: PPS DETECTED
+10:50:18 Gateway 0, reading I: PPS DETECTED
+10:50:19 Gateway 0, reading I: PPS DETECTED
+10:50:20 Gateway 0, reading I: PPS DETECTED
+10:50:21 Gateway 0, reading I: PPS DETECTED
+10:50:22 Gateway 0, reading I: PPS DETECTED
+10:50:23 Gateway 0, reading I: PPS DETECTED
+10:50:24 Gateway 0, reading I: PPS DETECTED
+10:50:25 Gateway 0, reading I: PPS DETECTED
+10:50:26 Gateway 0, reading I: PPS DETECTED
+10:50:27 Gateway 0, reading I: PPS DETECTED
+10:50:28 Gateway 0, reading I: PPS DETECTED
+10:50:29 Gateway 0, reading I: PPS DETECTED
+10:50:30 Gateway 0, reading I: PPS DETECTED
+10:50:31 Gateway 0, reading I: PPS DETECTED
+10:50:32 Gateway 0, reading I: PPS DETECTED
+10:50:33 Gateway 0, reading I: PPS DETECTED
+10:50:34 Gateway 0, reading I: PPS DETECTED
+10:50:35 Gateway 0, reading I: PPS DETECTED
+10:50:36 Gateway 0, reading I: PPS DETECTED
+10:50:37 Gateway 0, reading I: PPS DETECTED
+10:50:38 Gateway 0, reading I: PPS DETECTED
+10:50:39 Gateway 0, reading I: PPS DETECTED
+10:50:40 Gateway 0, reading I: PPS DETECTED
+10:50:41 Gateway 0, reading I: PPS DETECTED
+10:50:42 Gateway 0, reading I: PPS DETECTED
+10:50:43 Gateway 0, reading I: PPS DETECTED
+10:50:44 Gateway 0, reading I: PPS DETECTED
+10:50:45 Gateway 0, reading I: PPS DETECTED
+10:50:46 Gateway 0, reading I: PPS DETECTED
+10:50:47 Gateway 0, reading I: PPS DETECTED
+10:50:48 Gateway 0, reading I: PPS DETECTED
+10:50:49 Gateway 0, reading I: PPS DETECTED
+10:50:50 Gateway 0, reading I: PPS DETECTED
+10:50:51 Gateway 0, reading I: PPS DETECTED
+10:50:52 Gateway 0, reading I: PPS DETECTED
+10:50:53 Gateway 0, reading I: PPS DETECTED
+10:50:54 Gateway 0, reading I: PPS DETECTED
+10:50:55 Gateway 0, reading I: PPS DETECTED
+10:50:55 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:50:56 Gateway 0, reading I: PPS DETECTED
+10:50:56 Gateway 0, reading I: Write NIB - PPS
+10:50:57 Gateway 0, reading I: PPS DETECTED
+10:50:57 Gateway 0, reading I: NIB Write ACK
+10:50:57 Gateway 0, reading I: NIB Write ACK
+10:50:58 Gateway 0, reading I: PPS DETECTED
+10:50:58 Gateway 0, reading I: NIB Write ACK
+10:50:58 Gateway 0, reading I: NIB Write ACK
+10:50:58 Gateway 0, reading I: NIB Write ACK
+10:50:59 Gateway 0, reading I: PPS DETECTED
+10:51:00 Gateway 0, reading I: PPS DETECTED
+10:51:01 Gateway 0, reading I: PPS DETECTED
+10:51:02 Gateway 0, reading I: PPS DETECTED
+10:51:03 Gateway 0, reading I: PPS DETECTED
+10:51:04 Gateway 0, reading I: PPS DETECTED
+10:51:05 Gateway 0, reading I: PPS DETECTED
+10:51:06 Gateway 0, reading I: PPS DETECTED
+10:51:07 Gateway 0, reading I: PPS DETECTED
+10:51:08 Gateway 0, reading I: PPS DETECTED
+10:51:09 Gateway 0, reading I: PPS DETECTED
+10:51:10 Gateway 0, reading I: PPS DETECTED
+10:51:11 Gateway 0, reading I: PPS DETECTED
+10:51:12 Gateway 0, reading I: PPS DETECTED
+10:51:13 Gateway 0, reading I: PPS DETECTED
+10:51:14 Gateway 0, reading I: PPS DETECTED
+10:51:15 Gateway 0, reading I: PPS DETECTED
+10:51:16 Gateway 0, reading I: PPS DETECTED
+10:51:17 Gateway 0, reading I: PPS DETECTED
+10:51:17 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:51:18 Gateway 0, reading I: PPS DETECTED
+10:51:18 Gateway 0, reading I: Write NIB - PPS
+10:51:18 Gateway 0, reading I: NIB Write ACK
+10:51:18 Gateway 0, reading I: NIB Write ACK
+10:51:19 Gateway 0, reading I: PPS DETECTED
+10:51:19 Gateway 0, reading I: NIB Write ACK
+10:51:19 Gateway 0, reading I: NIB Write ACK
+10:51:20 Gateway 0, reading I: PPS DETECTED
+10:51:20 Gateway 0, reading I: NIB Write ACK
+10:51:21 Gateway 0, reading I: PPS DETECTED
+10:51:22 Gateway 0, reading I: PPS DETECTED
+10:51:23 Gateway 0, reading I: PPS DETECTED
+10:51:24 Gateway 0, reading I: PPS DETECTED
+10:51:25 Gateway 0, reading I: PPS DETECTED
+10:51:26 Gateway 0, reading I: PPS DETECTED
+10:51:27 Gateway 0, reading I: PPS DETECTED
+10:51:28 Gateway 0, reading I: PPS DETECTED
+10:51:29 Gateway 0, reading I: PPS DETECTED
+10:51:30 Gateway 0, reading I: PPS DETECTED
+10:51:31 Gateway 0, reading I: PPS DETECTED
+10:51:32 Gateway 0, reading I: PPS DETECTED
+10:51:33 Gateway 0, reading I: PPS DETECTED
+10:51:34 Gateway 0, reading I: PPS DETECTED
+10:51:35 Gateway 0, reading I: PPS DETECTED
+10:51:36 Gateway 0, reading I: PPS DETECTED
+10:51:37 Gateway 0, reading I: PPS DETECTED
+10:51:38 Gateway 0, reading I: PPS DETECTED
+10:51:39 Gateway 0, reading I: PPS DETECTED
+10:51:40 Gateway 0, reading I: PPS DETECTED
+10:51:41 Gateway 0, reading I: PPS DETECTED
+10:51:42 Gateway 0, reading I: PPS DETECTED
+10:51:43 Gateway 0, reading I: PPS DETECTED
+10:51:44 Gateway 0, reading I: PPS DETECTED
+10:51:45 Gateway 0, reading I: PPS DETECTED
+10:51:46 Gateway 0, reading I: PPS DETECTED
+10:51:46 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:51:47 Gateway 0, reading I: PPS DETECTED
+10:51:47 Gateway 0, reading I: Write NIB - PPS
+10:51:48 Gateway 0, reading I: PPS DETECTED
+10:51:48 Gateway 0, reading I: NIB Write ACK
+10:51:48 Gateway 0, reading I: NIB Write ACK
+10:51:49 Gateway 0, reading I: PPS DETECTED
+10:51:49 Gateway 0, reading I: NIB Write ACK
+10:51:49 Gateway 0, reading I: NIB Write ACK
+10:51:49 Gateway 0, reading I: NIB Write ACK
+10:51:50 Gateway 0, reading I: PPS DETECTED
+10:51:51 Gateway 0, reading I: PPS DETECTED
+10:51:52 Gateway 0, reading I: PPS DETECTED
+10:51:53 Gateway 0, reading I: PPS DETECTED
+10:51:54 Gateway 0, reading I: PPS DETECTED
+10:51:55 Gateway 0, reading I: PPS DETECTED
+10:51:56 Gateway 0, reading I: PPS DETECTED
+10:51:57 Gateway 0, reading I: PPS DETECTED
+10:51:58 Gateway 0, reading I: PPS DETECTED
+10:51:59 Gateway 0, reading I: PPS DETECTED
+10:52:00 Gateway 0, reading I: PPS DETECTED
+10:52:01 Gateway 0, reading I: PPS DETECTED
+10:52:02 Gateway 0, reading I: PPS DETECTED
+10:52:03 Gateway 0, reading I: PPS DETECTED
+10:52:04 Gateway 0, reading I: PPS DETECTED
+10:52:05 Gateway 0, reading I: PPS DETECTED
+10:52:06 Gateway 0, reading I: PPS DETECTED
+10:52:06 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:52:07 Gateway 0, reading I: PPS DETECTED
+10:52:07 Gateway 0, reading I: Write NIB - PPS
+10:52:08 Gateway 0, reading I: NIB Write ACK
+10:52:08 Gateway 0, reading I: NIB Write ACK
+10:52:08 Gateway 0, reading I: PPS DETECTED
+10:52:08 Gateway 0, reading I: NIB Write ACK
+10:52:09 Gateway 0, reading I: NIB Write ACK
+10:52:09 Gateway 0, reading I: PPS DETECTED
+10:52:09 Gateway 0, reading I: NIB Write ACK
+10:52:10 Gateway 0, reading I: PPS DETECTED
+10:52:11 Gateway 0, reading I: PPS DETECTED
+10:52:12 Gateway 0, reading I: PPS DETECTED
+10:52:13 Gateway 0, reading I: PPS DETECTED
+10:52:14 Gateway 0, reading I: PPS DETECTED
+10:52:15 Gateway 0, reading I: PPS DETECTED
+10:52:16 Gateway 0, reading I: PPS DETECTED
+10:52:17 Gateway 0, reading I: PPS DETECTED
+10:52:18 Gateway 0, reading I: PPS DETECTED
+10:52:19 Gateway 0, reading I: PPS DETECTED
+10:52:20 Gateway 0, reading I: PPS DETECTED
+10:52:21 Gateway 0, reading I: PPS DETECTED
+10:52:22 Gateway 0, reading I: PPS DETECTED
+10:52:23 Gateway 0, reading I: PPS DETECTED
+10:52:24 Gateway 0, reading I: PPS DETECTED
+10:52:25 Gateway 0, reading I: PPS DETECTED
+10:52:26 Gateway 0, reading I: PPS DETECTED
+10:52:27 Gateway 0, reading I: PPS DETECTED
+10:52:28 Gateway 0, reading I: PPS DETECTED
+10:52:29 Gateway 0, reading I: PPS DETECTED
+10:52:30 Gateway 0, reading I: PPS DETECTED
+10:52:30 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:52:31 Gateway 0, reading I: PPS DETECTED
+10:52:31 Gateway 0, reading I: Write NIB - PPS
+10:52:31 Gateway 0, reading I: NIB Write ACK
+10:52:31 Gateway 0, reading I: NIB Write ACK
+10:52:32 Gateway 0, reading I: PPS DETECTED
+10:52:32 Gateway 0, reading I: NIB Write ACK
+10:52:33 Gateway 0, reading I: NIB Write ACK
+10:52:33 Gateway 0, reading I: PPS DETECTED
+10:52:33 Gateway 0, reading I: NIB Write ACK
+10:52:34 Gateway 0, reading I: PPS DETECTED
+10:52:35 Gateway 0, reading I: PPS DETECTED
+10:52:36 Gateway 0, reading I: PPS DETECTED
+10:52:37 Gateway 0, reading I: PPS DETECTED
+10:52:38 Gateway 0, reading I: PPS DETECTED
+10:52:39 Gateway 0, reading I: PPS DETECTED
+10:52:40 Gateway 0, reading I: PPS DETECTED
+10:52:41 Gateway 0, reading I: PPS DETECTED
+10:52:42 Gateway 0, reading I: PPS DETECTED
+10:52:43 Gateway 0, reading I: PPS DETECTED
+10:52:44 Gateway 0, reading I: PPS DETECTED
+10:52:45 Gateway 0, reading I: PPS DETECTED
+10:52:46 Gateway 0, reading I: PPS DETECTED
+10:52:47 Gateway 0, reading I: PPS DETECTED
+10:52:48 Gateway 0, reading I: PPS DETECTED
+10:52:49 Gateway 0, reading I: PPS DETECTED
+10:52:50 Gateway 0, reading I: PPS DETECTED
+10:52:51 Gateway 0, reading I: PPS DETECTED
+10:52:52 Gateway 0, reading I: PPS DETECTED
+10:52:52 Gateway 0, sending b'NIBWS0100400000000000000000000000000'
+10:52:53 Gateway 0, reading I: PPS DETECTED
+10:52:53 Gateway 0, reading I: Write NIB - PPS
+10:52:54 Gateway 0, reading I: PPS DETECTED
+10:52:54 Gateway 0, reading I: NIB Write ACK
+10:52:54 Gateway 0, reading I: NIB Write ACK
+10:52:55 Gateway 0, reading I: PPS DETECTED
+10:52:55 Gateway 0, reading I: NIB Write ACK
+10:52:55 Gateway 0, reading I: NIB Write ACK
+10:52:55 Gateway 0, reading I: NIB Write ACK
+10:52:56 Gateway 0, reading I: PPS DETECTED
+10:52:57 Gateway 0, reading I: PPS DETECTED
+10:52:58 Gateway 0, reading I: PPS DETECTED
+10:52:59 Gateway 0, reading I: PPS DETECTED
+10:53:00 Gateway 0, reading I: PPS DETECTED
+10:53:01 Gateway 0, reading I: PPS DETECTED
+10:53:02 Gateway 0, reading I: PPS DETECTED
+10:53:03 Gateway 0, reading I: PPS DETECTED
+10:53:04 Gateway 0, reading I: PPS DETECTED
+10:53:05 Gateway 0, reading I: PPS DETECTED
+10:53:06 Gateway 0, reading I: PPS DETECTED
+10:53:07 Gateway 0, reading I: PPS DETECTED
+10:53:08 Gateway 0, reading I: PPS DETECTED
+10:53:09 Gateway 0, reading I: PPS DETECTED
+10:53:10 Gateway 0, reading I: PPS DETECTED
+10:53:11 Gateway 0, reading I: PPS DETECTED
+10:53:12 Gateway 0, reading I: PPS DETECTED
+10:53:13 Gateway 0, reading I: PPS DETECTED
+10:53:14 Gateway 0, reading I: PPS DETECTED
+10:53:15 Gateway 0, reading I: PPS DETECTED
